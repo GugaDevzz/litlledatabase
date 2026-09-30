@@ -1,4 +1,4 @@
-# Little Database / Pequeno Banco de Dados
+# Little Database / Banco de Dados simples
 
 [PT-BR](#português) | [English](#english)
 
