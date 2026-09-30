@@ -1,4 +1,4 @@
-# Little Database / Banco de Dados simples
+# Simple Data / Dados simples
 
 [PT-BR](#português) | [English](#english)
 
@@ -6,7 +6,7 @@
 
 ### 🌐 Sobre o Projeto
 
-O **Little Database** é um projeto em Java voltado para a resolução de desafios, exercícios e consultas relacionadas a banco de dados. O projeto estrutura soluções para questões/tarefas específicas (`pergunta1`, `pergunta2`, `pergunta3`) e inclui classes para execução e testes de código.
+O **Simple Data** é um projeto em Java voltado para a resolução de desafios com dados, exercícios e consultas relacionadas a banco de dados. O projeto estrutura soluções para questões/tarefas específicas (`pergunta1`, `pergunta2`, `pergunta3`) e inclui classes para execução e testes de código.
 
 ### 📁 Estrutura do Projeto
 
@@ -70,7 +70,7 @@ litlledatabase-main/
 
 ### 🌐 About The Project
 
-**Little Database** is a Java-based project designed to solve database-related tasks, challenges, and queries. The repository structures solutions for specific questions (`pergunta1`, `pergunta2`, `pergunta3`) and includes classes for main execution and code testing.
+**Simple Data** is a Java-based project designed to solve database-related tasks, challenges, and queries. The repository structures solutions for specific questions (`pergunta1`, `pergunta2`, `pergunta3`) and includes classes for main execution and code testing.
 
 ### 📁 Project Structure
 
